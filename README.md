@@ -1,4 +1,7 @@
-# Sistema de Acompanhamento de Chamados
+
+# Exercício - Sistema de acompanhamento de chamados
+Gabrielly Nogueira Rodrigues
+RA: 10762766
 
 Desejamos implementar um sistema para dar suporte ao registro e tratamento de chamados de clientes em uma dada empresa.
 
